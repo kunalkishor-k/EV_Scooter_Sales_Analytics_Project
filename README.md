@@ -9,7 +9,7 @@ One can book the scooters by paying some initial amount on the company website b
 Sales & operation team at Zoom Electric, is responsible for executing the pre-orders, sales client visits, website sales, and analyze the visit session created on the website and analyze the sales funnel.
 This sales and operations team has more than 50 agents (experience agents) who help the customers to understand the specifications and make decisions for  pre-booking.Increased EV adoption due to introduced govt incentive and green energy initiatives, leading to a growing market for the electric vehicles.
 
-<b> Problem Statement </b>
+<b> Problem Statement </b></br>
 Initially Sprint Scooters' sales numbers were quite impressive in the first two weeks of launch but suddenly  it started decreasing unexpectedly. 
 The Marketing Team of ZE has also rolled out an email campaign to reach the prospective buyers to get the pre bookings, these email are sent to customers to make the aware about the product launch and get the sales orders.
 Despite a promising start in the first two weeks, sales began to decline thereafter.
