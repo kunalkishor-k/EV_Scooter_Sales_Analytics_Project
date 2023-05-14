@@ -12,8 +12,10 @@ This sales and operations team has more than 50 agents (experience agents) who h
 
 <b> Problem Statement </b></br>
 Initially Sprint Scooters' sales numbers were quite impressive in the first two weeks of launch but suddenly  it started decreasing unexpectedly. 
-The Marketing Team of ZE has also rolled out an email campaign to reach the prospective buyers to get the pre bookings, these email are sent to customers to make the aware about the product launch and get the sales orders.
-Despite a promising start in the first two weeks, sales began to decline thereafter.
+The Marketing Team of ZE has also rolled out an email campaign to reach the prospective buyers to get the pre bookings, these email are sent to customers to make the aware about the product launch and get the sales orders.</br>
+
+Despite a promising start in the first two weeks, sales began to decline thereafter.</br>
+
 As a data analyst , I have been assigned to validate the sales drop for Sprint scooters and figure out the reasons for this decline
 
 
